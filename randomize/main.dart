@@ -2,7 +2,7 @@ import 'dart:math';
 
 // randomize a list of any type
 List<dynamic> randomize(List<dynamic> list) {
-  Random random = Random();
+  final Random random = Random();
 
   for (int i = list.length - 1; i > 0; i--) {
     int j = random.nextInt(i + 1);
