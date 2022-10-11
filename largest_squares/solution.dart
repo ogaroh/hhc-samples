@@ -1,7 +1,7 @@
 import 'dart:math';
 
 void main(List<String> args) {
-  print(solution(12));
+  print(solution(145235));
 }
 
 // solution
