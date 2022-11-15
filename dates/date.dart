@@ -1,5 +1,5 @@
 void main(List<String> args) {
-  String date = "/Date(-99964800000)/";
+  String date = "/Date(470620800000)/";
   testDate(date);
 }
 
